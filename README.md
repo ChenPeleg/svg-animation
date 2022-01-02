@@ -1,2 +1,2 @@
-# svg-animation
-try doing things with svg animation
+# JS-Course
+Js-Course
